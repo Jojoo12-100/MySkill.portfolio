@@ -1,0 +1,137 @@
+.firstcontainer{
+    height: 100vh;
+    display: grid; 
+    grid-template-rows: 300px auto;
+    grid-template-columns: 350px auto;
+}
+.secondcont{
+    background-color: aqua;
+    grid-row: span 4;
+    margin-left: -8px;
+    margin-top: -8px;
+    border-radius: 5px;
+}
+
+.od{
+    
+    font-size: 20px;
+    font-family: 'Lobster';
+}
+
+.Helo{
+    color: blueviolet;
+    font-family: 'Andika', sans-serif;
+    margin-top: -1px;
+}
+.wallpaper{
+    height: 200px;
+    width: 358px;
+    border-radius: 5px;
+}
+.fon{
+    text-align: center;
+   
+}
+.en{
+    text-align: justify;
+    font-family: 'Poly', serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ne{
+    margin-top: -10px;
+}
+.valiant{
+    color: rgb(235, 27, 27);
+    font-family: 'Abril Fatface', serif;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -15px;
+}
+.es{
+    font-family: 'Mukta', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.h3{
+   
+    font-weight:300;
+    margin-top: -11px;
+    font-family: 'Glory', sans-serif;
+}
+.freespace{
+    height: 100vh;
+    background-color: rgb(241, 234, 234);
+    margin-top: -10px;
+    margin-right: -10px;
+}
+.myskls{
+    display: flex;
+    justify-content:center;
+    color: rgb(255, 255, 255);
+    font-family: 'Lobster';
+
+    
+}
+.dow{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+ 
+}
+.h3d{
+    color: blue;
+    margin-top: 72vh;
+    font-family: 'Abril Fatface', serif;
+}
+
+.smallone{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    width: 330px;
+    height: 400px;
+    margin-top: -210px;
+    margin-left: 70px;
+    background-color: rgb(239, 248, 226);
+
+}
+.mo{
+    color:red;
+    font-family: 'Nosifer', sans-serif;
+    font-size: 15px;
+}
+.ina{
+    margin-top: -40px;
+    font-family: 'Aleo', serif;
+    color: black;    
+}
+
+.ma{
+    padding: 20px;
+    text-align: center;
+}
+
+.wallo{
+    height: 170px;
+    width: 160px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.smalltwo{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    width: 330px;
+    height: 400px;
+    margin-top: -413px;
+    margin-left: 600px;
+    margin-right:60px;
+    background-color: rgb(239, 248, 226);
+}
